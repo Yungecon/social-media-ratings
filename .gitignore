@@ -25,3 +25,11 @@ yarn-error.log*
 .vscode/
 *.swp
 *.swo
+
+# Cache
+.cache/
+node_modules/.cache/
+
+# Large files
+*.pack
+*.idx
